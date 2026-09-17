@@ -1,0 +1,2 @@
+Đây là gói ADD-ON cho website doilathe.site hiện có.
+Không cần thay giao diện trang chủ. Chỉ ghép api/, admin-keys.html và cấu hình Vercel vào source hiện tại.
